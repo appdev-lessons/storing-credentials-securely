@@ -29,7 +29,7 @@ Once you add a secret, it will be available in the Codespaces associated with th
 ENV.fetch("GMAPS_KEY")
 ```
 
-**Stop and Start your workspace again to pick up the new entry.** [Instructions for doing so can be found in this lesson](https://learn.firstdraft.com/lessons/47#reopening-a-workspace).
+**Stop and Start your workspace again to pick up the new entry.** [Instructions for doing so can be found in this lesson](https://learn.firstdraft.com/lessons/47-codespaces-setup#reopening-a-workspace).
 
 You can test to make sure you've configured everything properly by running `rails console` and fetching the key you added.
 
