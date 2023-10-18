@@ -21,7 +21,7 @@ But how do we create the environment variables and store our secrets in them? Be
 
 ### Codespaces
 
-Storing credentials securely in your `ENV` variable to get access in your Codespaces project is a cinch with GitHub. Just follow [the clear instructions from GitHub here](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-encrypted-secrets-for-your-codespaces#adding-a-secret).
+Storing credentials securely in your `ENV` variable to get access in your Codespaces project is a cinch with GitHub. Just follow [the clear instructions from GitHub here](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-secrets-for-your-codespaces#adding-a-secret).
 
 Once you add a secret, it will be available in the Codespaces associated with the repository you granted access to via:
 
